@@ -1,4 +1,4 @@
-# 🕵️‍♂️ SOC Analyst Training: Wireshark Traffic Analysis (Lab 3)
+# 🕵️‍♂️ SOC Analyst Training: Wireshark Traffic Analysis Lab
 
 ## 📖 Overview
 This repository contains my documentation and findings for the **Wireshark Project Module (Extra)** completed as part of the Networkwalks Cybersecurity Internship (Batch B084). 
