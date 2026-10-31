@@ -9,7 +9,7 @@ The objective of this project was to act as a SOC Analyst, investigating network
 *   **Networkwalks SOC Lab Portal:** Browser-based interactive labs.
 *   **Wireshark:** For packet analysis, filtering, and deep packet inspection.
 
-## 🚀 Lab 3: Identify the Attacker's IP
+## 🚀 Lab: Identify the Attacker's IP
 
 ### Scenario
 A staff member reported unusual traffic to the company's web server. The goal was to find out what type of attack this was and what the attacker's IP address is.
