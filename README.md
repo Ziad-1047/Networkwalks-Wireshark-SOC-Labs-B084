@@ -42,7 +42,7 @@ To confirm the rest of the scan, I filtered for server responses containing the 
 
 ## 🏆 Results
 Successfully completed all 10 tasks and achieved a **100% score (100/100 marks)**.
-![Lab Completion](https://github.com/Ziad-1047/Networkwalks-Wireshark-SOC-Labs-B084/blob/main/6.png) *(The screenshot of the final 100% score)*
+![Lab Completion](https://github.com/Ziad-1047/Networkwalks-Wireshark-SOC-Labs-B084/blob/main/6.png)
 
 ---
 *Created as part of the Networkwalks Cybersecurity Internship (Batch B084).*
